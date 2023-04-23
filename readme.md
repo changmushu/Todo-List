@@ -39,7 +39,6 @@ function App() {
 export default App
 ```
 
-![1](.\image\1.png)
 
 ```jsx
 const [newItem,setNewItem] = useState("")
