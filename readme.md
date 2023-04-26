@@ -1,5 +1,7 @@
 ![image](https://github.com/changmushu/Todo-List/blob/master/image/1.png)
 
+通过Local Storage保存到本地，一个TodoList Demo；
+
 ## 基本页面布局
 
 ```jsx
